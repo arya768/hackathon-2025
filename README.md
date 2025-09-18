@@ -1,19 +1,26 @@
-# hackathon-2025
-Creating an interchangeable robot that can be used for collecting data for both healthcare and the environment. Through our model design and easily accessible materials, the model can be utilized for a variety of purposes. The two main functions are the effects of humans/animals on the environment (for example, how highly-populated areas affect the air quality), and the effects of the environment on humans/animals (how building a factory affects the people and animals near the location). The robot can be advanced to one of 2 functions: It can be improved to get more medical data for specific group of people. And it can also be used to exclusively get data about the environment in extreme locations, such as the middle of the ocean or near an active volcano.
-The materials listed below:
-
-1- Electronic 
-  • Heart beat sensor 
-  • Gps
-  • Accelerometer 
-  • Oled screen 
-  • Rgb LED 
-  • Temperature sensor
-  • Arm band 
-  • Water level 
-  • Air quality/temperature sensor 
-  • Arduino Elegoo Uno R3
-  • jumper cables
+🤖 Hackathon 2025: Interchangeable Data-Collecting Robot
+A modular robot designed for collecting real-world data in both healthcare and environmental applications. Built with accessibility and adaptability in mind, this robot uses affordable components and a flexible design to serve multiple use cases.
+🌍 Core Objectives
+Environmental impact of human and animal presence
+e.g., measuring how population density affects air quality.
+Human and animal health impacted by environmental change
+e.g., studying the effects of factories or pollution on surrounding life.
+🧠 Future Functionality
+Can be adapted for specialized healthcare monitoring, collecting detailed physiological data from specific groups.
+Can be deployed in extreme environments, such as deep oceans or volcanic areas, for remote environmental data collection.
+🔧 Materials Used
+Electronics
+Heartbeat sensor
+GPS module
+Accelerometer
+OLED screen
+RGB LED
+Temperature sensor
+Arm band
+Water level sensor
+Air quality & temperature sensor
+Arduino Elegoo Uno R3
+Jumper cables
 
 
 ![IMG_5088](https://github.com/user-attachments/assets/a72f810f-c669-4c88-b877-4ede516dcd4c)
