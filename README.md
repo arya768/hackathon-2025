@@ -1,5 +1,5 @@
-🤖 Hackathon 2025: Interchangeable Data-Collecting Robot<br>
-A modular robot designed for collecting real-world data in both healthcare and environmental applications.<br>
+🤖 Hackathon 2025: Interchangeable Data Collecting Robot<br>
+A modular robot designed for collecting real world data in both healthcare and environmental applications.<br>
 Built with accessibility and adaptability in mind, this robot uses affordable components and a flexible design to serve multiple use cases.<br>
 🌍 Core Objectives<br>
 📊 Measure the environmental impact of humans and animals<br>
