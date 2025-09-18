@@ -25,7 +25,7 @@ Remote wilderness zones<br>
 -Air quality / temperature sensor<br>
 -Arduino Elegoo Uno R3<br>
 -Jumper cables<br>
-_ESP32 Arduino<br>
+-ESP32 Arduino<br>
 
 
 ![IMG_5088](https://github.com/user-attachments/assets/a72f810f-c669-4c88-b877-4ede516dcd4c)
